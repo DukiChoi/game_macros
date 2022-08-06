@@ -1,0 +1,10 @@
+C:\Users\cbcc1\source\repos\roa macro solution 2\roa macro solution 2\bin\Debug\roa macro solution 2.exe.config
+C:\Users\cbcc1\source\repos\roa macro solution 2\roa macro solution 2\bin\Debug\roa macro solution 2.exe
+C:\Users\cbcc1\source\repos\roa macro solution 2\roa macro solution 2\bin\Debug\roa macro solution 2.pdb
+C:\Users\cbcc1\source\repos\roa macro solution 2\roa macro solution 2\obj\Debug\roa macro solution 2.csprojAssemblyReference.cache
+C:\Users\cbcc1\source\repos\roa macro solution 2\roa macro solution 2\obj\Debug\roa_macro_solution_2.Form1.resources
+C:\Users\cbcc1\source\repos\roa macro solution 2\roa macro solution 2\obj\Debug\roa_macro_solution_2.Properties.Resources.resources
+C:\Users\cbcc1\source\repos\roa macro solution 2\roa macro solution 2\obj\Debug\roa macro solution 2.csproj.GenerateResource.cache
+C:\Users\cbcc1\source\repos\roa macro solution 2\roa macro solution 2\obj\Debug\roa macro solution 2.csproj.CoreCompileInputs.cache
+C:\Users\cbcc1\source\repos\roa macro solution 2\roa macro solution 2\obj\Debug\roa macro solution 2.exe
+C:\Users\cbcc1\source\repos\roa macro solution 2\roa macro solution 2\obj\Debug\roa macro solution 2.pdb
